@@ -2,7 +2,8 @@
 - 👀 I’m interested in  Web development
 - 🌱 I’m currently learning Django and Java-script
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me dagimfikru@gmail.com
+- 📫 How to reach me - dagimfikru@gmail.com
+                     - degim.fikru@aait.edu.et
 <img src="https://github-readme-stats.vercel.app/api?username=Dagim-Fikru&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagim-Fikru&layout=compact&theme=dark"/>
 
